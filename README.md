@@ -1,4 +1,4 @@
-### Hello! I am Gabriel De Liberatti
+### Hello! I am Gabriel De Liberatti, Psychologist and Programmer.
 - Beginning my Tech carrier
 - Estudying Front-End | Back-End
 - 📫 How to reach me: gabrieldliberatti@hotmail.com | gabrieldliberatti@gmail.com
